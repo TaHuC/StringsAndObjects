@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/StringsAndObjects/StringsAndObjects/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/StringsAndObjects/StringsAndObjects/bin/Debug/StringsAndObjects.exe.mdb
+/Users/TaHuC/Projects/StringsAndObjects/StringsAndObjects/bin/Debug/StringsAndObjects.exe
+/Users/TaHuC/Projects/StringsAndObjects/StringsAndObjects/obj/x86/Debug/StringsAndObjects.exe
+/Users/TaHuC/Projects/StringsAndObjects/StringsAndObjects/obj/x86/Debug/StringsAndObjects.exe.mdb
